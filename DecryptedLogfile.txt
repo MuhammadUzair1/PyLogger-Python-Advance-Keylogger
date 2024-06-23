@@ -1,0 +1,146 @@
+
+[17:25:08] Special Key: Key.shift
+
+[17:25:09] Key: M
+
+[17:25:09] Key: y
+
+[17:25:10] Special Key: Key.space
+
+[17:25:10] Key: n
+
+[17:25:10] Key: a
+
+[17:25:10] Key: m
+
+[17:25:10] Key: e
+
+[17:25:10] Special Key: Key.space
+
+[17:25:10] Key: i
+
+[17:25:10] Key: s
+
+[17:25:10] Special Key: Key.space
+
+[17:25:11] Special Key: Key.shift
+
+[17:25:11] Key: M
+
+[17:25:11] Key: u
+
+[17:25:11] Key: i
+
+[17:25:11] Key: h
+
+[17:25:12] Key: a
+
+[17:25:12] Key: m
+
+[17:25:12] Key: a
+
+[17:25:12] Key: m
+
+[17:25:13] Special Key: Key.backspace
+
+[17:25:13] Special Key: Key.backspace
+
+[17:25:14] Key: m
+
+[17:25:14] Key: m
+
+[17:25:14] Key: a
+
+[17:25:14] Key: d
+
+[17:25:15] Special Key: Key.space
+
+[17:25:15] Special Key: Key.shift
+
+[17:25:15] Key: U
+
+[17:25:15] Key: z
+
+[17:25:15] Key: a
+
+[17:25:15] Key: i
+
+[17:25:15] Key: r
+
+[17:25:16] Special Key: Key.space
+
+[17:25:16] Special Key: Key.shift
+
+[17:25:16] Key: K
+
+[17:25:16] Key: h
+
+[17:25:16] Key: a
+
+[17:25:16] Key: n
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:18] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:19] Special Key: Key.backspace
+
+[17:25:22] Mouse Click at (1581, 660) with Button.left
